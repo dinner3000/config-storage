@@ -1,3 +1,4 @@
-service:
-    simulation:
-        unavailable: false
+service-config:
+  runtimeConfig:
+    paramA: remote-valueA
+    paramB: remote-valueB
